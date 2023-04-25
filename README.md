@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blake
-- 👀 I’m interested in Aviation, Computers and other nerdy stuff.
-- 🌱 I’m currently learning LUA, Python and some other fun things.
+<!--- - 👀 I’m interested in Aviation, Computers and other nerdy stuff.
+- 🌱 I’m currently learning LUA, Python and some other fun things. --->
 - 📫 How to reach me? ItzBlakeBro#0001 or blake@sysnetz.xyz
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
