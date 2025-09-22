@@ -1,7 +1,10 @@
 ## Howdy 👋
 I'm Blake, just a certified desk chair *developer*
 
-## Tech Stack
+## Projects
+Check out some of my various projects
+
+## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,python,redis,postgres,supabase,cloudflare,aws,docker,jenkins)](https://skillicons.dev)
 
 <!--
