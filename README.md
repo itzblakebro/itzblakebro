@@ -1,7 +1,7 @@
 ## Howdy 👋
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,python,supabase,cloudflare,aws,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,python,redis,postgres,supabase,cloudflare,aws,jenkins)](https://skillicons.dev)
 
 <!--
 **itzblakebro/itzblakebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
