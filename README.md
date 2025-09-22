@@ -4,6 +4,9 @@ I'm Blake, just a certified desk chair *developer*
 ## Projects
 Check out some of my various projects
 
+- AmeriFed Aviation Company, A Virtual Airline for Flight Simulator. [AmeriFed](https://amerifed.net)
+- StatusOwl, Robust uptime and monitoring solution for various services and docker. [StatusOwl](https://statusowl.net)
+
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,python,redis,postgres,supabase,cloudflare,aws,docker,jenkins)](https://skillicons.dev)
 
