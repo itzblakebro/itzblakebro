@@ -1,5 +1,5 @@
 ## Howdy 👋
-I'm Blake, just a certified desk chair *developer*
+I'm Blake, a certified desk chair *developer* and sim pilot!
 
 ## Projects
 Check out some of my projects
