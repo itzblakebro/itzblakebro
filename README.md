@@ -1,4 +1,14 @@
-## Hi there 👋
+## Howdy 👋
+I'm Blake, a certified desk chair full-stack developer and sim pilot!
+
+## Projects
+
+Check out some of my projects
+
+AmeriFed Aviation Company a Virtual Airline for Flight Simulator.
+StatusOwl a Robust uptime and monitoring solution for various services and docker.
+
+## Main Skills
 
 <!--
 **itzblakebro/itzblakebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
