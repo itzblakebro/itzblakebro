@@ -9,7 +9,7 @@ AmeriFed Aviation Company a Virtual Airline for Flight Simulator.
 StatusOwl a Robust uptime and monitoring solution for various services and docker.
 
 ## Main Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,python,redis,postgres,supabase,cloudflare,aws,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,ts,python,redis,postgres,supabase,cloudflare,aws,docker,jenkins)](https://skillicons.dev)
 <!--
 **itzblakebro/itzblakebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
