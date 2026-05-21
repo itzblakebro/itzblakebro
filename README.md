@@ -11,7 +11,7 @@ Check out some of my projects
 - [United Virtual Airlines](https://ualvirtual.com) 
 
 ## Main Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,ts,python,redis,postgres,supabase,cloudflare,aws,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,ts,python,redis,postgres,supabase,cloudflare,aws,docker,jenkins)]
 <!--
 **itzblakebro/itzblakebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
