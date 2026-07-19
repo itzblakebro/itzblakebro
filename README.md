@@ -1,15 +1,6 @@
 ## Howdy 👋
 I'm Blake, full-stack developer and sim pilot!
 
-## Projects
-
-Check out some of my projects
-
-- [AmeriFed Aviation Company](https://amerifed.net) a Virtual Airline for Flight Simulator.
-- [StatusOwl](https://statusowl.net) a Robust uptime and monitoring solution for various services and docker.
-- [Southwest Virtual Airlines](https://www.swavirtual.com)
-- [United Virtual Airlines](https://ualvirtual.com) 
-
 ## Main Skills
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,ts,python,redis,postgres,supabase,cloudflare,aws,docker,jenkins)
 <!--
